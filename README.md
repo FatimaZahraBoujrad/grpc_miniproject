@@ -137,10 +137,8 @@ Received response: 8
 
 ***
 
-## License
 
-This project is provided for educational purposes under the MIT License.
 
 ***
 
-Would you like this README written in French too for your internship portfolio?
+
