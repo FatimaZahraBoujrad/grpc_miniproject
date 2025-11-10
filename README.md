@@ -1,4 +1,3 @@
-Here’s a structured README template you can personalize and include in your project repository. It explains the purpose, structure, setup, and usage of your Java gRPC project.
 
 ***
 
